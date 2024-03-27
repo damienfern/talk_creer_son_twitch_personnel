@@ -5,6 +5,7 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
+    "serve-prod": "npx http-server dist/",
     "export": "slidev export"
   },
   "dependencies": {
@@ -12,5 +13,8 @@
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.43.0"
   }
 }
