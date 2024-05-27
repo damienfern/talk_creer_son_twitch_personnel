@@ -16,4 +16,4 @@ Slides crées avec [Slidev](https://sli.dev/)
 - https://www.youtube.com/watch?v=LLZLlgfGGrE : une vidéo sur la norme HDMI et toutes les histoires de brevets qui sont derrière l'industrie de la vidéo
 - https://netflixtechblog.com/?gi=44e730c62cba : le blog tech des équipes de Netflix avec pleins d'articles très intéressants
   * https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359 : article sur la refonte du workflow qu'ils ont pour encoder les vidéos venant des boites de production
-- 
+- https://www.youtube.com/watch?v=VX9ppF6eMjc&t=1s : une présentation d'Arthur Godard (dev front chez BedRock) sur le développement d'un player vidéo
