@@ -2,6 +2,8 @@
 
 Présentation réalisée lors d'un meetup LyonJS x AFUP Lyon le 17/04/2024.
 
+Slides disponibles [ici](https://damienfern.github.io/talk_creer_son_twitch_personnel/)
+
 Slides crées avec [Slidev](https://sli.dev/)
 
 ## Replay
